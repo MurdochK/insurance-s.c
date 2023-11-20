@@ -1,0 +1,21 @@
+import calendar
+
+year = int(input("Enter the year: "))
+
+print(calendar.calendar(year))
+
+
+###
+
+import calendar
+
+# Get the year from the user
+year = int(input("Enter the year: "))
+
+# Print the calendar for the entire year
+print(calendar.calendar(year))
+
+
+
+
+
